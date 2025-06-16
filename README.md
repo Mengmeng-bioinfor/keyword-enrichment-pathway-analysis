@@ -76,3 +76,10 @@ Each category is tested using a **hypergeometric test** (or similar), asking:
 
 ```math
 Enrichment Ratio = (Observed / Input Genes) / (Background / Total Background)
+```
+### Output
+![barplot_enrichment](results/barplot_enrichment_colored.png)
+![bubbleplot_enrichment](results/bubbleplot_enrichment.png)
+![heatmap_enrichment](results/heatmap_enrichment_adjusted.png)
+![heatmap_genes_vs_terms](results/heatmap_genes_vs_terms.png)
+![network_plot_enrichment](results/network_plot_enrichment.png)
