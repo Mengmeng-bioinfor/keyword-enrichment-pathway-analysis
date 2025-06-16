@@ -31,6 +31,7 @@ This repository provides a framework for performing enrichment analysis of keywo
 
 ```bash
 pip install -r requirements.txt
+```
 
 # 🔍 Understanding the Principle of Keyword Enrichment Analysis
 
